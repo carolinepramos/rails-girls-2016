@@ -1,2 +1,3 @@
 # rails-girls-2016
-Repositorio do tutorial do git 
+Repositorio do tutorial do git
+oasdoijafdksdfjn
